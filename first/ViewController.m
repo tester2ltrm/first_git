@@ -35,7 +35,7 @@
     
     tap_recognizer = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(handleTap:)];
     [get_number_button addGestureRecognizer:tap_recognizer];
-    //
+    ////
     
     [self.view addSubview:get_number_button];
     [self.view addSubview:label_with_number];
