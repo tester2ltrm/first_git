@@ -37,7 +37,7 @@
     //////
     
     [self.view addSubview:get_number_button];//////
-    [self.view addSubview:label_with_number];//sss
+    [self.view addSubview:label_with_number];//sss....
      NSLog(@"loadView");//
     
     
