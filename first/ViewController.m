@@ -12,7 +12,6 @@
 
 @implementation ViewController
 
-OTSTOI
 
 #pragma mark - View lifecycle
 -(void)loadView
