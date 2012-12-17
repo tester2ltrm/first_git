@@ -18,6 +18,8 @@
 {
     [super loadView];
     
+    OLOLOLOL
+    
     get_number_button = [[UIButton alloc] initWithFrame:CGRectMake(10, 390, 300, 60)];
     get_number_button.backgroundColor = [UIColor greenColor];
     [get_number_button setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
