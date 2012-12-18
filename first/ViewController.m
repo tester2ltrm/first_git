@@ -99,7 +99,7 @@
     //float random_number = 0.00/0.00;//
     [label_with_number setText:[NSString stringWithFormat:@"%d", random_number]];
     NSLog(@"%d", random_number);
-    return 35;
+    return 350;
 }
 
 @end
