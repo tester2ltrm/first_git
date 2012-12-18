@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		371DCA6B1680984C00E7AB8B /* run_tests.rb in Resources */ = {isa = PBXBuildFile; fileRef = 371DCA6A1680984C00E7AB8B /* run_tests.rb */; };
+		371DCA6C1680984C00E7AB8B /* run_tests.rb in Resources */ = {isa = PBXBuildFile; fileRef = 371DCA6A1680984C00E7AB8B /* run_tests.rb */; };
 		F6F1489C14D2A49D004A7F10 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6F1489B14D2A49D004A7F10 /* UIKit.framework */; };
 		F6F1489E14D2A49D004A7F10 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6F1489D14D2A49D004A7F10 /* Foundation.framework */; };
 		F6F148A014D2A49D004A7F10 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6F1489F14D2A49D004A7F10 /* CoreGraphics.framework */; };
@@ -34,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		371DCA6A1680984C00E7AB8B /* run_tests.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = run_tests.rb; sourceTree = "<group>"; };
 		F6F1489714D2A49D004A7F10 /* first.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = first.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6F1489B14D2A49D004A7F10 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F6F1489D14D2A49D004A7F10 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -83,6 +86,7 @@
 		F6F1488C14D2A49D004A7F10 = {
 			isa = PBXGroup;
 			children = (
+				371DCA6A1680984C00E7AB8B /* run_tests.rb */,
 				F6F148A114D2A49D004A7F10 /* first */,
 				F6F148C214D2A49D004A7F10 /* firstTests */,
 				F6F1489A14D2A49D004A7F10 /* Frameworks */,
@@ -227,6 +231,7 @@
 				F6F148A614D2A49D004A7F10 /* InfoPlist.strings in Resources */,
 				F6F148AF14D2A49D004A7F10 /* MainStoryboard_iPhone.storyboard in Resources */,
 				F6F148B214D2A49D004A7F10 /* MainStoryboard_iPad.storyboard in Resources */,
+				371DCA6B1680984C00E7AB8B /* run_tests.rb in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6F148C714D2A49D004A7F10 /* InfoPlist.strings in Resources */,
+				371DCA6C1680984C00E7AB8B /* run_tests.rb in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +258,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+			shellScript = "# Run the unit tests in this test bundle.\n${PROJECT_DIR}/Scripts/run_tests.rb\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
