@@ -1,0 +1,275 @@
+Tfirst
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/Info.plist first/first-Info.plist
+cProcessPCH /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth first/first-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o /Users/tester2/Documents/this_for_github/first/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o /Users/tester2/Documents/this_for_github/first/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o /Users/tester2/Documents/this_for_github/first/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first normal i386
+cGenerateDSYMFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first
+cCopyStringsFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/InfoPlist.strings first/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard
+cCpResource Scripts/run_tests.rb build/Debug-iphonesimulator/first.app/run_tests.rb
+cTouch /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050901F900000000000228FD0
+t1351622544
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050901F9D00000000003DCEF0
+t1351622557
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050901FCF0000000000AB3D60
+t1351622607
+s11222368
+
+N/Users/tester2/Documents/this_for_github/Scripts/run_tests.rb
+c0000000050D1D5FB000000000000033C
+t1355929083
+s828
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app
+t1355929092
+s238
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM
+t1355927768
+s102
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/Info.plist
+t1355927767
+s1014
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/PkgInfo
+t1355927767
+s8
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/InfoPlist.strings
+t1355927768
+s42
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/MainStoryboard_iPad.storyboardc
+t1355927768
+s170
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t1355927768
+s170
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first
+t1355927768
+s34408
+
+N/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/run_tests.rb
+t1355929092
+s828
+
+N/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o
+t1355927768
+s88716
+
+N/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o
+t1355927768
+s81612
+
+N/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/first.LinkFileList
+c0000000050D1D0D70000000000000179
+t1355927767
+s377
+
+N/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o
+t1355927767
+s3276
+
+N/Users/tester2/Documents/this_for_github/first/AppDelegate.h
+c0000000050CEEFAF0000000000000172
+t1355739055
+s370
+
+N/Users/tester2/Documents/this_for_github/first/AppDelegate.m
+c0000000050CEEFAF000000000000094B
+t1355739055
+s2379
+
+N/Users/tester2/Documents/this_for_github/first/ViewController.h
+c0000000050CEEFAF00000000000001AB
+t1355739055
+s427
+
+N/Users/tester2/Documents/this_for_github/first/ViewController.m
+c0000000050D181800000000000000AD4
+t1355907456
+s2772
+
+N/Users/tester2/Documents/this_for_github/first/en.lproj/InfoPlist.strings
+c0000000050CEEFAF000000000000002D
+t1355739055
+s45
+
+N/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard
+c0000000050CEEFAF0000000000000645
+t1355739055
+s1605
+
+N/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard
+c0000000050CEEFAF000000000000061C
+t1355739055
+s1564
+
+N/Users/tester2/Documents/this_for_github/first/first-Prefix.pch
+c0000000050CEEFAF0000000000000139
+t1355739055
+s313
+
+N/Users/tester2/Documents/this_for_github/first/main.m
+c0000000050CEEFAF0000000000000257
+t1355739055
+s599
+
+N/var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth
+t1355927767
+s4836892
+
+Nfirst/first-Info.plist
+c0000000050CEEFAF000000000000066A
+t1355739055
+s1642
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd6ffddca0d82b641^07b7f9ca0d82b641^---0#1#0#--18"Check dependencies36"D3B1E434-8097-4940-9447-AD74F6A90454-
+
+CCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o /Users/tester2/Documents/this_for_github/first/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377620567.935359
+e377620568.024312
+r1
+xCompileC
+xbuild/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o
+x/Users/tester2/Documents/this_for_github/first/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/tester2/Documents/this_for_github/first/AppDelegate.m4793ef570882b641^8d4606580882b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tester2/Documents/this_for_github/first/AppDelegate.m0000000000000000^3522"CompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o first/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tester2/Documents/this_for_github    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-generated-files.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-own-target-headers.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-all-target-headers.hmap -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-project-headers.hmap -I/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources/i386 -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources -F/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator -include /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch -MMD -MT dependencies -MF /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.dia -c /Users/tester2/Documents/this_for_github/first/AppDelegate.m -o /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/AppDelegate.o36"A527DF62-275F-49F2-8B6A-86FCE51DBCD3-
+
+CCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o /Users/tester2/Documents/this_for_github/first/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377620567.967491
+e377620568.061348
+r1
+xCompileC
+xbuild/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o
+x/Users/tester2/Documents/this_for_github/first/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/tester2/Documents/this_for_github/first/ViewController.m8dd0f7570882b641^6dc80f580882b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/tester2/Documents/this_for_github/first/ViewController.m0000000000000000^3540"CompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o first/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tester2/Documents/this_for_github    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-generated-files.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-own-target-headers.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-all-target-headers.hmap -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-project-headers.hmap -I/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources/i386 -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources -F/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator -include /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch -MMD -MT dependencies -MF /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.dia -c /Users/tester2/Documents/this_for_github/first/ViewController.m -o /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/ViewController.o36"97147DFC-E44A-42B0-B445-D439069BDD38-
+
+CCompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o /Users/tester2/Documents/this_for_github/first/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377620567.935336
+e377620567.966198
+r1
+xCompileC
+xbuild/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o
+x/Users/tester2/Documents/this_for_github/first/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tester2/Documents/this_for_github/first/main.m4793ef570882b641^a566f7570882b641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/tester2/Documents/this_for_github/first/main.m0000000000000000^3480"CompileC build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o first/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tester2/Documents/this_for_github    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-generated-files.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-own-target-headers.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-all-target-headers.hmap -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-project-headers.hmap -I/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources/i386 -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources -F/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator -include /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch -MMD -MT dependencies -MF /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.dia -c /Users/tester2/Documents/this_for_github/first/main.m -o /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/main.o36"D3B40A83-7591-4A5B-8E97-3A49F0E65D0C-
+
+CCompileStoryboard /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard
+s377620568.141125
+e377620568.290138
+r1
+xCompileStoryboard
+x/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard first/en.lproj/MainStoryboard_iPad.storyboard3b3824580882b641^9fe64c580882b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1012"CompileStoryboard first/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/tester2/Documents/this_for_github    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"7975EDDA-4D7D-437B-9D30-6F162072D045-
+
+CCompileStoryboard /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard
+s377620568.137665
+e377620568.197279
+r1
+xCompileStoryboard
+x/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard first/en.lproj/MainStoryboard_iPhone.storyboard5d5023580882b641^658d32580882b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1018"CompileStoryboard first/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/tester2/Documents/this_for_github    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/tester2/Documents/this_for_github/first/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"3C35097D-B68E-4D8E-B346-66C452678567-
+
+CCopyStringsFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/InfoPlist.strings first/en.lproj/InfoPlist.strings
+s377620568.136850
+e377620568.139802
+r1
+xCopyStringsFile
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj/InfoPlist.strings
+xfirst/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy first/en.lproj/InfoPlist.strings362323580882b641^21ca23580882b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/tester2/Documents/this_for_github/first/en.lproj/InfoPlist.strings0000000000000000^624"CopyStringsFile build/Debug-iphonesimulator/first.app/en.lproj/InfoPlist.strings first/en.lproj/InfoPlist.strings    cd /Users/tester2/Documents/this_for_github    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/en.lproj -- first/en.lproj/InfoPlist.strings36"5B9EF9BC-0682-4B15-A4F2-41C8AE281054-
+
+CCpResource Scripts/run_tests.rb build/Debug-iphonesimulator/first.app/run_tests.rb
+s377621892.710914
+e377621892.714042
+r1
+xCpResource
+xScripts/run_tests.rb
+xbuild/Debug-iphonesimulator/first.app/run_tests.rb
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/first.app/run_tests.rb581cb6840d82b641^86cbb6840d82b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/run_tests.rb0000000000000000^632"CpResource Scripts/run_tests.rb build/Debug-iphonesimulator/first.app/run_tests.rb    cd /Users/tester2/Documents/this_for_github    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tester2/Documents/this_for_github/Scripts/run_tests.rb /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app36"57583341-C0D1-40F1-97BD-B03F323535F1-
+
+CGenerateDSYMFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first
+s377620568.106656
+e377620568.128793
+r1
+xGenerateDSYMFile
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Generating /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYMe5631b580882b641^d3f920580882b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM000000000080d041^672"GenerateDSYMFile build/Debug-iphonesimulator/first.app.dSYM build/Debug-iphonesimulator/first.app/first    cd /Users/tester2/Documents/this_for_github    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first -o /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app.dSYM36"42CE87E1-5B75-451E-AE34-3099BA108C84-
+
+CLd /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first normal i386
+s377620568.067650
+e377620568.099829
+r1
+xLd
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first486a11580882b641^e2af19580882b641^---0#0#0#--1196"Ld build/Debug-iphonesimulator/first.app/first normal i386    cd /Users/tester2/Documents/this_for_github    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator -F/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator -filelist /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/Objects-normal/i386/first.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/first36"0CE9D06C-021B-4773-B070-8530BA0910FA-
+
+CProcessInfoPlistFile /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/Info.plist first/first-Info.plist
+s377620567.568430
+e377620567.572607
+r1
+xProcessInfoPlistFile
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/Info.plist
+xfirst/first-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process first/first-Info.plist48a491570882b641^4cfd94570882b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/tester2/Documents/this_for_github/first/first-Info.plist0000000000000000^695"ProcessInfoPlistFile build/Debug-iphonesimulator/first.app/Info.plist first/first-Info.plist    cd /Users/tester2/Documents/this_for_github    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    builtin-infoPlistUtility first/first-Info.plist -genpkginfo /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app/Info.plist36"2216289D-F6CB-4682-B70D-6B67FDF6D641-
+
+CProcessPCH /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth first/first-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377620567.582540
+e377620567.928525
+r1
+xProcessPCH
+x/var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth
+xfirst/first-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile first/first-Prefix.pch015095570882b641^4ab3ed570882b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/tester2/Documents/this_for_github/first/first-Prefix.pch0000000000000000^3532"ProcessPCH /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth first/first-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tester2/Documents/this_for_github    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-generated-files.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-own-target-headers.hmap -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-all-target-headers.hmap -iquote /Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/first-project-headers.hmap -I/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources/i386 -I/Users/tester2/Documents/this_for_github/build/first.build/Debug-iphonesimulator/first.build/DerivedSources -F/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.dia -c /Users/tester2/Documents/this_for_github/first/first-Prefix.pch -o /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/06/4x5dg9xs75s0pnxj8fd_7sy00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/first-Prefix-flfytdyjaiikejcorfejmnvnganb/first-Prefix.pch.d36"D1949BFE-C061-4BC7-93AD-0C5B427B0352-
+
+CTouch /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app
+s377621892.722054
+e377621892.757824
+r1
+xTouch
+x/Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Touch /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app5af6b8840d82b641^5306c2840d82b641^---0#0#0#--441"Touch build/Debug-iphonesimulator/first.app    cd /Users/tester2/Documents/this_for_github    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/tester2/Documents/this_for_github/build/Debug-iphonesimulator/first.app36"0815F043-43F7-48B7-B24A-831EEE60E953-
+
