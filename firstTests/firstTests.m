@@ -33,10 +33,10 @@
     //int a = 1;
    // STAssertEquals(0, a , @"a_TestCase");
     
-    [test_viewcontroller handleTap:test_tap_recognizer];
-    STAssertEquals(35, [test_viewcontroller handleTap:test_tap_recognizer] , @"Tap_TestCase");
+    //[test_viewcontroller handleTap:test_tap_recognizer];
+    //STAssertEquals(35, [test_viewcontroller handleTap:test_tap_recognizer] , @"Tap_TestCase");
     
-    NSLog(@"Log");
+    //NSLog(@"Log");
     //STFail(@"Unit tests are not implemented yet in firstTests");
 }
 @end
